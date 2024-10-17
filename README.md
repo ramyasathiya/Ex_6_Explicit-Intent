@@ -35,8 +35,8 @@ Developed by:
 Registeration Number :
 */
 ```
-```
 ## MainActivity.java:
+```
 package com.example.madexp_6;
 
 import android.os.Bundle;
@@ -77,7 +77,9 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+```
 ## MainActivity2.java:
+```
 package com.example.madexp_6;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -98,6 +100,7 @@ public class MainActivity2 extends AppCompatActivity {
         t1.setText(Integer.toString(result));
     }
 }
+```
 ## activity_main.xml:
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -151,6 +154,8 @@ public class MainActivity2 extends AppCompatActivity {
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.622" />
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
+```
 ## activity_second.xml:
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -194,6 +199,8 @@ public class MainActivity2 extends AppCompatActivity {
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.45" />
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
+```
 ## AndroidManifest.xml:
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
