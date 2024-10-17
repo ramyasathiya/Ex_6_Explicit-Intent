@@ -35,6 +35,7 @@ Developed by:
 Registeration Number :
 */
 ```
+```
 ## MainActivity.java:
 package com.example.madexp_6;
 
@@ -222,6 +223,7 @@ public class MainActivity2 extends AppCompatActivity {
     </application>
 
 </manifest>
+```
 
 ## OUTPUT
 
