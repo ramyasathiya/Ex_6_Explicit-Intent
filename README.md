@@ -1,4 +1,4 @@
-# Ex.No:6 Implement an application that uses Explicit Intent using Android
+```# Ex.No:6 Implement an application that uses Explicit Intent using Android
 
 
 ## AIM:
@@ -159,7 +159,6 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 ```
 ## activity_second.xml:
-```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
